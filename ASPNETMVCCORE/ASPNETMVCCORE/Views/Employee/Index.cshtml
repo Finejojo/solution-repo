@@ -1,0 +1,30 @@
+﻿@model List<ASPNETMVCCORE.Models.Employee>
+@{
+}
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">D.O.B</th>
+            <th scope="col">Department</th>
+            <th scope="col">Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var (val,i) in Model.Select((val,i) => (val,i))) {
+            
+            <tr>
+                <th scope="row">@(i+1)</th>
+                <td>@val.Name</td>
+                <td>@val.Email</td>
+                <td>@val.DaeteOFBirth.ToString("dd/mm/yyyy")</td>
+                <td>@val.Department</td>
+                <td>@Html.ActionLink("Details","Details", new { id = val.Id})</td>
+            </tr>
+        }
+        
+        
+    </tbody>
+</table>

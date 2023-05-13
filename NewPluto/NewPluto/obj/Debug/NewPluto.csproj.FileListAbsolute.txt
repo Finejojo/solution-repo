@@ -1,0 +1,13 @@
+C:\Users\Decagon001\source\repos\NewPluto\NewPluto\bin\Debug\NewPluto.exe.config
+C:\Users\Decagon001\source\repos\NewPluto\NewPluto\bin\Debug\NewPluto.exe
+C:\Users\Decagon001\source\repos\NewPluto\NewPluto\bin\Debug\NewPluto.pdb
+C:\Users\Decagon001\source\repos\NewPluto\NewPluto\bin\Debug\EntityFramework.dll
+C:\Users\Decagon001\source\repos\NewPluto\NewPluto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Decagon001\source\repos\NewPluto\NewPluto\bin\Debug\EntityFramework.xml
+C:\Users\Decagon001\source\repos\NewPluto\NewPluto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Decagon001\source\repos\NewPluto\NewPluto\obj\Debug\NewPluto.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\NewPluto\NewPluto\obj\Debug\NewPluto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon001\source\repos\NewPluto\NewPluto\obj\Debug\NewPluto.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\NewPluto\NewPluto\obj\Debug\NewPluto.csproj.CopyComplete
+C:\Users\Decagon001\source\repos\NewPluto\NewPluto\obj\Debug\NewPluto.exe
+C:\Users\Decagon001\source\repos\NewPluto\NewPluto\obj\Debug\NewPluto.pdb

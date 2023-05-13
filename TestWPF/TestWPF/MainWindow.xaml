@@ -1,0 +1,135 @@
+﻿<Window x:Class="TestWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestWPF"
+        mc:Ignorable="d"
+        Title="TestApp" Height="500" Width="800">
+    <!--
+    <Grid>
+        <Button Foreground="BlueViolet" Background="BlanchedAlmond" Content="Hello World" HorizontalAlignment="Left" BorderBrush="CadetBlue" BorderThickness="2" Margin="28,401,0,0" Padding="10" FontWeight="Bold" VerticalAlignment="Top" FontSize="20" RenderTransformOrigin="0.486,0.546"/>
+
+    </Grid>
+    -->
+    <!--
+    <StackPanel>
+        <TextBlock HorizontalAlignment="Center" FontSize="24" FontWeight="Bold" Margin="20">Welcome User</TextBlock>
+        <ListBox FontSize="20" Width="200" HorizontalAlignment="Center">
+            <ListBoxItem>Samuel</ListBoxItem>
+            <ListBoxItem>Ruth</ListBoxItem>
+            <ListBoxItem>Dammy</ListBoxItem>
+            <ListBoxItem>Caleb</ListBoxItem>
+        </ListBox>
+        <Button Click="Btn_Click" Width="200" Padding="10" FontSize="20" FontWeight="Bold" Foreground="Brown" Background="Beige">Click Me!</Button>
+    </StackPanel>
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Button Grid.Column="0" Grid.Row="0">1</Button>
+        <Button Grid.Column="1" Grid.Row="0">2</Button>
+        <Button Grid.Column="2" Grid.Row="0">3</Button>
+        <Button Grid.Column="0" Grid.Row="1">4</Button>
+        <Button Grid.Column="1" Grid.Row="1">5</Button>
+        <Button Grid.Column="2" Grid.Row="1">6</Button>
+        <Button Grid.Column="0" Grid.Row="2">7</Button>
+        <Button Grid.Column="1" Grid.Row="2">8</Button>
+        <Button Grid.Column="2" Grid.Row="2">x</Button>
+    </Grid>
+    
+    <StackPanel>
+        <TextBox Width="300" Height="50" Margin="50" Text="{Binding ElementName=Slider, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Slider IsSnapToTickEnabled="True" x:Name="Slider" Minimum="0" Maximum="100" />
+    </StackPanel>
+   
+    <StackPanel>
+        <Label Content="Num1" />
+        <TextBox Width="100" Height="30" Text="{Binding Path=Num1, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+        <Label Content="Num2" />
+        <TextBox Width="100" Height="30" Text="{Binding Path=Num2, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+        <Label Content="Sum of Result" />
+        <TextBox Width="100" Height="30" Text="{Binding Path=Result, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+    </StackPanel>
+    <StackPanel>
+        <Grid>
+            <TextBlock Text="Hello, Beautiful Earth!" HorizontalAlignment="Center" FontSize="30">
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="Foreground" Value="Green"></Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Foreground" Value="Red"></Setter>
+                                <Setter Property="TextDecorations" Value="Underline"></Setter>
+
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+        </Grid>
+        <Grid>
+            <TextBlock Text="Good morning" HorizontalAlignment="Center" FontSize="30">
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="Foreground" Value="Gold"></Setter>
+                        <Style.Triggers>
+                            <EventTrigger RoutedEvent="MouseEnter">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Duration="0:0:0.500" Storyboard.TargetProperty="FontSize" To="70" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="MouseLeave">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Duration="0:0:0.300" Storyboard.TargetProperty="FontSize" To="30" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+        </Grid>
+        <StackPanel HorizontalAlignment="Center">
+            <CheckBox Name="cbChecked" Content="Is someone there?" />
+            <TextBlock FontSize="36" HorizontalAlignment="Center">
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="Text" Value="No, No one"/>
+                        <Setter Property="Foreground" Value="Red" />
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding ElementName=cbChecked, Path=IsChecked}" Value="True" >
+                                <Setter Property="Text" Value="Of course"/>
+                                <Setter Property="Foreground" Value="Green" />
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                    
+                </TextBlock.Style>
+            </TextBlock>
+        </StackPanel>
+    </StackPanel>
+     -->
+    <StackPanel Margin="30">
+        <TextBlock HorizontalAlignment="Center" Margin="10" FontSize="24" FontWeight="Bold">Login</TextBlock>
+        <StackPanel Margin="0 0 0 20">
+            
+            <Label>Email: </Label>
+            <TextBox Name="email" />
+            <Label>Password:</Label>
+            <PasswordBox Name="pass" PasswordChar="x" Password="Samuel"></PasswordBox>
+        </StackPanel>
+        <Button Click="Login" Padding="0 10 0 10" FontSize="20" Background="LightGreen" FontWeight="Bold" Foreground="RoyalBlue">Submit</Button>
+    </StackPanel>
+</Window>

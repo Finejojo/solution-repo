@@ -1,0 +1,15 @@
+C:\Users\Decagon001\source\repos\learning new code\learning new code\obj\Debug\net6.0\learning new code.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\learning new code\learning new code\obj\Debug\net6.0\learning new code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\learning new code\learning new code\obj\Debug\net6.0\learning new code.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\learning new code\learning new code\obj\Debug\net6.0\learning new code.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\learning new code\learning new code\obj\Debug\net6.0\learning new code.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\learning new code\learning new code\bin\Debug\net6.0\learning new code.exe
+C:\Users\Decagon001\source\repos\learning new code\learning new code\bin\Debug\net6.0\learning new code.deps.json
+C:\Users\Decagon001\source\repos\learning new code\learning new code\bin\Debug\net6.0\learning new code.runtimeconfig.json
+C:\Users\Decagon001\source\repos\learning new code\learning new code\bin\Debug\net6.0\learning new code.dll
+C:\Users\Decagon001\source\repos\learning new code\learning new code\bin\Debug\net6.0\learning new code.pdb
+C:\Users\Decagon001\source\repos\learning new code\learning new code\obj\Debug\net6.0\learning new code.dll
+C:\Users\Decagon001\source\repos\learning new code\learning new code\obj\Debug\net6.0\refint\learning new code.dll
+C:\Users\Decagon001\source\repos\learning new code\learning new code\obj\Debug\net6.0\learning new code.pdb
+C:\Users\Decagon001\source\repos\learning new code\learning new code\obj\Debug\net6.0\learning new code.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\learning new code\learning new code\obj\Debug\net6.0\ref\learning new code.dll

@@ -1,0 +1,15 @@
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\bin\Debug\net6.0\ArrayAlgo.exe
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\bin\Debug\net6.0\ArrayAlgo.deps.json
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\bin\Debug\net6.0\ArrayAlgo.runtimeconfig.json
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\bin\Debug\net6.0\ArrayAlgo.dll
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\bin\Debug\net6.0\ArrayAlgo.pdb
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\obj\Debug\net6.0\ArrayAlgo.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\obj\Debug\net6.0\ArrayAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\obj\Debug\net6.0\ArrayAlgo.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\obj\Debug\net6.0\ArrayAlgo.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\obj\Debug\net6.0\ArrayAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\obj\Debug\net6.0\ArrayAlgo.dll
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\obj\Debug\net6.0\refint\ArrayAlgo.dll
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\obj\Debug\net6.0\ArrayAlgo.pdb
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\obj\Debug\net6.0\ArrayAlgo.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\ArrayAlgo\ArrayAlgo\obj\Debug\net6.0\ref\ArrayAlgo.dll

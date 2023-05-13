@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KYh2BuORZ94YWkdi9zLPvlPBPj9AzJNe6BigNLrjQJTakXc08XDwlOvxLm0s5GNDF/gXWidHIZhGsiBGq8aDbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Decagon001\\source\\repos\\FileSystem\\FileSystem\\FileSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Decagon001\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Decagon001\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

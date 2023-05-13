@@ -1,0 +1,15 @@
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\bin\Debug\net6.0\GetLengthOfMissingArray.exe
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\bin\Debug\net6.0\GetLengthOfMissingArray.deps.json
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\bin\Debug\net6.0\GetLengthOfMissingArray.runtimeconfig.json
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\bin\Debug\net6.0\GetLengthOfMissingArray.dll
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\bin\Debug\net6.0\GetLengthOfMissingArray.pdb
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\obj\Debug\net6.0\GetLengthOfMissingArray.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\obj\Debug\net6.0\GetLengthOfMissingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\obj\Debug\net6.0\GetLengthOfMissingArray.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\obj\Debug\net6.0\GetLengthOfMissingArray.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\obj\Debug\net6.0\GetLengthOfMissingArray.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\obj\Debug\net6.0\GetLengthOfMissingArray.dll
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\obj\Debug\net6.0\refint\GetLengthOfMissingArray.dll
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\obj\Debug\net6.0\GetLengthOfMissingArray.pdb
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\obj\Debug\net6.0\GetLengthOfMissingArray.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\GetLengthOfMissingArray\GetLengthOfMissingArray\obj\Debug\net6.0\ref\GetLengthOfMissingArray.dll

@@ -1,0 +1,15 @@
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\bin\Debug\net6.0\DataStreamCountAge.exe
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\bin\Debug\net6.0\DataStreamCountAge.deps.json
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\bin\Debug\net6.0\DataStreamCountAge.runtimeconfig.json
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\bin\Debug\net6.0\DataStreamCountAge.dll
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\bin\Debug\net6.0\DataStreamCountAge.pdb
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\obj\Debug\net6.0\DataStreamCountAge.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\obj\Debug\net6.0\DataStreamCountAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\obj\Debug\net6.0\DataStreamCountAge.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\obj\Debug\net6.0\DataStreamCountAge.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\obj\Debug\net6.0\DataStreamCountAge.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\obj\Debug\net6.0\DataStreamCountAge.dll
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\obj\Debug\net6.0\refint\DataStreamCountAge.dll
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\obj\Debug\net6.0\DataStreamCountAge.pdb
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\obj\Debug\net6.0\DataStreamCountAge.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\DataStreamCountAge\DataStreamCountAge\obj\Debug\net6.0\ref\DataStreamCountAge.dll

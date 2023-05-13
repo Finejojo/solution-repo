@@ -1,0 +1,37 @@
+﻿@model ASPNETMVCCORE.Models.Employee
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@if(TempData["Id"] != null) {
+    <p>@TempData["Id"]</p>
+}
+<form method="post" action="Update">
+    <div class="mb-3">
+       
+        <input type="hidden" class="form-control" id="exampleInputName" asp-for="Id" readonly>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputName" class="form-label">Name</label>
+        <input type="text" class="form-control" id="exampleInputName" asp-for="Name">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Email</label>
+        <input type="email" class="form-control" id="exampleInputEmail" asp-for="Email">
+        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputDOB" class="form-label">Date Of Birth</label>
+        <input type="date" class="form-control" id="exampleInputDOB" asp-for="DaeteOFBirth">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputName" class="form-label">Salary</label>
+        <input type="number" class="form-control" id="exampleInputName" asp-for="Salary">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputDept" class="form-label">Department</label>
+        <input type="text" class="form-control" id="exampleInputDept" asp-for="Department">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

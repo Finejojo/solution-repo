@@ -1,0 +1,15 @@
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\bin\Debug\net6.0\HarkerRankAlgo.exe
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\bin\Debug\net6.0\HarkerRankAlgo.deps.json
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\bin\Debug\net6.0\HarkerRankAlgo.runtimeconfig.json
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\bin\Debug\net6.0\HarkerRankAlgo.dll
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\bin\Debug\net6.0\HarkerRankAlgo.pdb
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\obj\Debug\net6.0\HarkerRankAlgo.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\obj\Debug\net6.0\HarkerRankAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\obj\Debug\net6.0\HarkerRankAlgo.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\obj\Debug\net6.0\HarkerRankAlgo.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\obj\Debug\net6.0\HarkerRankAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\obj\Debug\net6.0\HarkerRankAlgo.dll
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\obj\Debug\net6.0\refint\HarkerRankAlgo.dll
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\obj\Debug\net6.0\HarkerRankAlgo.pdb
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\obj\Debug\net6.0\HarkerRankAlgo.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\HarkerRankAlgo\HarkerRankAlgo\obj\Debug\net6.0\ref\HarkerRankAlgo.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iksxm7ju6/Wz1MlE7kYuwbwLc+B7QZ3NPl+5iFNodM7xC6qA2QQ2XGLuHmN5Nyi92AWUXj1EGqxYe1qN5jHwdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Decagon001\\source\\repos\\WalletExperiment\\WalletExperiment\\WalletExperiment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Decagon001\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Decagon001\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Decagon001\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Decagon001\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Decagon001\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Decagon001\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

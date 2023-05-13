@@ -1,0 +1,15 @@
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\bin\Debug\net6.0\WalletAddress.exe
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\bin\Debug\net6.0\WalletAddress.deps.json
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\bin\Debug\net6.0\WalletAddress.runtimeconfig.json
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\bin\Debug\net6.0\WalletAddress.dll
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\bin\Debug\net6.0\WalletAddress.pdb
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\obj\Debug\net6.0\WalletAddress.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\obj\Debug\net6.0\WalletAddress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\obj\Debug\net6.0\WalletAddress.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\obj\Debug\net6.0\WalletAddress.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\obj\Debug\net6.0\WalletAddress.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\obj\Debug\net6.0\WalletAddress.dll
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\obj\Debug\net6.0\refint\WalletAddress.dll
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\obj\Debug\net6.0\WalletAddress.pdb
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\obj\Debug\net6.0\WalletAddress.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\WalletAddress\WalletAddress\obj\Debug\net6.0\ref\WalletAddress.dll

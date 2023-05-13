@@ -1,0 +1,16 @@
+﻿{
+  "RootNamespace": "Serenityzzexample",
+  "EndOfLine": "LF",
+  "ServerTypings": {
+    "LocalTexts": true
+  },
+  "Restore": {
+    "Exclude": [
+      "/**/*"
+    ]
+  },
+  "UpgradeInfo": {
+    "InitialType": "Community",
+    "InitialVersion": "6.5.1.0"
+  }
+}

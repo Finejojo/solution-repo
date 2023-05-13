@@ -1,0 +1,26 @@
+﻿@model string;
+@{
+    var fruits = new List<string>{
+        "Mango",
+        "Pineapple",
+        "Orange",
+        "Watermelon",
+        "Guava",
+        "Lemon",
+        "Apple",
+    };
+    fruits.Add(Model);
+}
+
+<form asp-action='test' asp-method='post'>
+    
+    <input placeholder='Input fruit' />
+    <button type='submit'>Submit</button>
+</form>
+
+<h2>List of Fruits</h2>
+<ul>
+    @foreach(var fruit in fruits){
+        <li>@fruit</li>
+    }
+</ul>

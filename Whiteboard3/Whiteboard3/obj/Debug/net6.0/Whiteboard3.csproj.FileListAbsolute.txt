@@ -1,0 +1,15 @@
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\bin\Debug\net6.0\Whiteboard3.exe
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\bin\Debug\net6.0\Whiteboard3.deps.json
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\bin\Debug\net6.0\Whiteboard3.runtimeconfig.json
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\bin\Debug\net6.0\Whiteboard3.dll
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\bin\Debug\net6.0\Whiteboard3.pdb
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\obj\Debug\net6.0\Whiteboard3.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\obj\Debug\net6.0\Whiteboard3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\obj\Debug\net6.0\Whiteboard3.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\obj\Debug\net6.0\Whiteboard3.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\obj\Debug\net6.0\Whiteboard3.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\obj\Debug\net6.0\Whiteboard3.dll
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\obj\Debug\net6.0\refint\Whiteboard3.dll
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\obj\Debug\net6.0\Whiteboard3.pdb
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\obj\Debug\net6.0\Whiteboard3.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\Whiteboard3\Whiteboard3\obj\Debug\net6.0\ref\Whiteboard3.dll

@@ -1,0 +1,16 @@
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\bin\Debug\net5.0\WebApplica.exe
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\bin\Debug\net5.0\WebApplica.deps.json
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\bin\Debug\net5.0\WebApplica.runtimeconfig.json
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\bin\Debug\net5.0\WebApplica.runtimeconfig.dev.json
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\bin\Debug\net5.0\WebApplica.dll
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\bin\Debug\net5.0\WebApplica.pdb
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\obj\Debug\net5.0\WebApplica.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\obj\Debug\net5.0\WebApplica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\obj\Debug\net5.0\WebApplica.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\obj\Debug\net5.0\WebApplica.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\obj\Debug\net5.0\WebApplica.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\obj\Debug\net5.0\WebApplica.dll
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\obj\Debug\net5.0\refint\WebApplica.dll
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\obj\Debug\net5.0\WebApplica.pdb
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\obj\Debug\net5.0\WebApplica.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\WebApplica\WebApplica\obj\Debug\net5.0\ref\WebApplica.dll

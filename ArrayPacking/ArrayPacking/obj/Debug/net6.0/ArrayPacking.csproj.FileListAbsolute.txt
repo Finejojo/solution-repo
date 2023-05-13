@@ -1,0 +1,15 @@
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\bin\Debug\net6.0\ArrayPacking.exe
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\bin\Debug\net6.0\ArrayPacking.deps.json
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\bin\Debug\net6.0\ArrayPacking.runtimeconfig.json
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\bin\Debug\net6.0\ArrayPacking.dll
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\bin\Debug\net6.0\ArrayPacking.pdb
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\obj\Debug\net6.0\ArrayPacking.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\obj\Debug\net6.0\ArrayPacking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\obj\Debug\net6.0\ArrayPacking.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\obj\Debug\net6.0\ArrayPacking.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\obj\Debug\net6.0\ArrayPacking.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\obj\Debug\net6.0\ArrayPacking.dll
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\obj\Debug\net6.0\refint\ArrayPacking.dll
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\obj\Debug\net6.0\ArrayPacking.pdb
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\obj\Debug\net6.0\ArrayPacking.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\ArrayPacking\ArrayPacking\obj\Debug\net6.0\ref\ArrayPacking.dll

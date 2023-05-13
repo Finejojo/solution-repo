@@ -1,0 +1,50 @@
+﻿@model CurrencyModel
+@{
+    ViewData["Title"] = "Currency Conversion";
+    var list = new List<SelectListItem> {
+        new SelectListItem{Value="USD",Text="USD"},
+        new SelectListItem{Value="EUR",Text="EUR"},
+        new SelectListItem{Value="NGN",Text="NGN"},
+    };
+}
+<form asp-action="convert">
+    <div class="mb-3">
+        <label asp-for="ConvertFrom" class="form-label"></label>
+        <select asp-for="ConvertFrom" asp-items="list" class="form-control" aria-describedby="emailHelp">
+            <option Value="">**Not selected**</option>
+        </select>
+        <span asp-validation-for="ConvertFrom"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Amount" class="form-label"></label>
+        <input asp-for="Amount" class="form-control">
+        <span asp-validation-for="Amount"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="ConvertTo" class="form-label"></label>
+        <select asp-for="ConvertTo" asp-items="list" class="form-control" aria-describedby="emailHelp">
+            <option Value="">**Not selected**</option>
+        </select>
+        <span asp-validation-for="ConvertTo"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@if(Model != null){
+    <div class="card" style="width: 18rem;">
+        <div class="card-header">
+            Conversion 
+        </div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">Of: @(Model.Amount) @(Model.ConvertFrom)</li>
+            <li class="list-group-item">To: @(Model.ConvertTo)</li>
+            <li class="list-group-item">Is: @(Model.Amount/1.12)</li>
+        </ul>
+    </div>
+}else{
+    <div class="card" style="width: 18rem;">
+        <div class="card-header">
+            No Conversion
+        </div>
+    </div>
+}

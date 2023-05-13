@@ -1,0 +1,15 @@
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\obj\Debug\net6.0\LongestConsecutiveStr.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\obj\Debug\net6.0\LongestConsecutiveStr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\obj\Debug\net6.0\LongestConsecutiveStr.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\obj\Debug\net6.0\LongestConsecutiveStr.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\obj\Debug\net6.0\LongestConsecutiveStr.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\bin\Debug\net6.0\LongestConsecutiveStr.exe
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\bin\Debug\net6.0\LongestConsecutiveStr.deps.json
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\bin\Debug\net6.0\LongestConsecutiveStr.runtimeconfig.json
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\bin\Debug\net6.0\LongestConsecutiveStr.dll
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\bin\Debug\net6.0\LongestConsecutiveStr.pdb
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\obj\Debug\net6.0\LongestConsecutiveStr.dll
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\obj\Debug\net6.0\refint\LongestConsecutiveStr.dll
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\obj\Debug\net6.0\LongestConsecutiveStr.pdb
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\obj\Debug\net6.0\LongestConsecutiveStr.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\LongestConsecutiveStr\LongestConsecutiveStr\obj\Debug\net6.0\ref\LongestConsecutiveStr.dll
