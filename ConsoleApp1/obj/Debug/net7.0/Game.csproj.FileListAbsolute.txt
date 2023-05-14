@@ -1,0 +1,15 @@
+C:\Users\Decagon001\source\repos\ConsoleApp1\bin\Debug\net7.0\Game.exe
+C:\Users\Decagon001\source\repos\ConsoleApp1\bin\Debug\net7.0\Game.deps.json
+C:\Users\Decagon001\source\repos\ConsoleApp1\bin\Debug\net7.0\Game.runtimeconfig.json
+C:\Users\Decagon001\source\repos\ConsoleApp1\bin\Debug\net7.0\Game.dll
+C:\Users\Decagon001\source\repos\ConsoleApp1\bin\Debug\net7.0\Game.pdb
+C:\Users\Decagon001\source\repos\ConsoleApp1\obj\Debug\net7.0\Game.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\ConsoleApp1\obj\Debug\net7.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\ConsoleApp1\obj\Debug\net7.0\Game.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\ConsoleApp1\obj\Debug\net7.0\Game.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\ConsoleApp1\obj\Debug\net7.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\ConsoleApp1\obj\Debug\net7.0\Game.dll
+C:\Users\Decagon001\source\repos\ConsoleApp1\obj\Debug\net7.0\refint\Game.dll
+C:\Users\Decagon001\source\repos\ConsoleApp1\obj\Debug\net7.0\Game.pdb
+C:\Users\Decagon001\source\repos\ConsoleApp1\obj\Debug\net7.0\Game.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\ConsoleApp1\obj\Debug\net7.0\ref\Game.dll
